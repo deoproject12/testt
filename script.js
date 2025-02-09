@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
     const lyrics = [
-        "hallo",
-        "your lyricss.....",
-        "your lyricss.....",
-        "your lyricss.....",
-        "your lyricss....."
+        "HAIII SAYANGG",
+        "BOCILL PUNYA KEJUTAN TAU",
+        "HITUNG YAA",
+        "SATUUUU DUAAAA",
+        "TIGAAAAAAAAAAAAAAAAAA....."
     ];
 
     const delay = 45; // adjust the speed here
