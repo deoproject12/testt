@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         setTimeout(function () {
-            window.location.href = "yournexthtmlfile.html"; //set here your next target html
+            window.location.href = "card.html"; //set here your next target html
         }, 700);
     }
     
